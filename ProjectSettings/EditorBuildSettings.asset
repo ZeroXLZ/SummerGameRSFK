@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/MainMenu.unity
+    guid: 45d8c6e3e813f124c9c88bb1a5220b57
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lessons/Lesson1.unity
+    guid: 1bea864b0b637bf4eac04bde9b6dbd19
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lessons/Lesson2.unity
+    guid: f4da77da751635944875981e529d5c27
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lessons/Lesson3.unity
+    guid: e7cb1d5a34fd25e46baf7614cba8b54e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lessons/Lesson4.unity
+    guid: e233b76c116721a4eab85e6a637f73fb
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lessons/Lesson5.unity
+    guid: 65ee97322deaab947af04ee6853a1838
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lessons/Lesson6.unity
+    guid: 6a78ec905c8ef0f4dbcbf823c4d3737d
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lessons/Lesson7.unity
+    guid: 7e1772d4931f6364fa557a6dd3cfe0eb
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lessons/Lesson8.unity
+    guid: ec637c3734cf6ee4a9da6e90258d45f4
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lessons/Lesson9.unity
+    guid: eed06a03aba4eca4ba94daa2da707dc8
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lessons/Lesson10.unity
+    guid: 60d4c0cdee744384d9ae240f5e1c88f4
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lessons/Lesson11.unity
+    guid: c327b2c509d363349a7fb8d66032f5c5
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tests/Test1.unity
+    guid: aabb1fd805dab1a448a6d6cd83fd73cc
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tests/Test2.unity
+    guid: 762d473bb262ad147ab62bec28ab03ca
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tests/Test3.unity
+    guid: fdbe4ec40d6a0a34480221dcaa050e3a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tests/Test4.unity
+    guid: 3eef530e2630eda449145b82f8226314
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tests/Test5.unity
+    guid: 7d37411307d316a46b336b44680281e7
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tests/Test6.unity
+    guid: c8059c06a249fb848bf088e66c446b85
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tests/Test7.unity
+    guid: 3d077b3ba3f5471498dc518a0cdbc089
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tests/Test8.unity
+    guid: 4feef3643080a214595a8fabcbe212f1
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tests/Test9.unity
+    guid: 5491487ef95e6d04aad6a97ad51addc2
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tests/Test10.unity
+    guid: 18b5edb0b15c5254f9e1c3db4b5a7e46
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tests/Test11.unity
+    guid: 6fd9a50bfe11d44448f2a185c6d11143
+  - enabled: 1
+    path: Assets/Scenes/Levels/Practices/Practice1.unity
+    guid: cfa87ed08b17cec4192f283f9fa666e3
+  - enabled: 1
+    path: Assets/Scenes/Levels/Practices/Practice2.unity
+    guid: 4c0fd12d7dc387a4397b791e3b556953
+  - enabled: 1
+    path: Assets/Scenes/Levels/Practices/Practice3.unity
+    guid: 0dad030f779ee50419317c772bc72c2c
+  - enabled: 1
+    path: Assets/Scenes/Levels/Practices/Practice4.unity
+    guid: 1d954c5d63795eb479918554163fd1b8
+  - enabled: 1
+    path: Assets/Scenes/Levels/Practices/Practice5.unity
+    guid: f55b7093b913b064da74d202ff8b70cf
+  - enabled: 1
+    path: Assets/Scenes/Levels/Practices/Practice5_1.unity
+    guid: 372b3adfedc073e44b61494f69613c0b
+  - enabled: 1
+    path: Assets/Scenes/Levels/Practices/Practice11.unity
+    guid: d364249a4e446d0448e029ab5b015ef0
+  - enabled: 1
+    path: Assets/Scenes/Levels/Exams/ExamTest.unity
+    guid: e5fb7c6535ea6c0459d13c8bfe418601
+  - enabled: 1
+    path: Assets/Scenes/Levels/Exams/Congratulation.unity
+    guid: 7199dce14c4ff0e4c8e3d1b196c5eec7
+  m_configObjects: {}
